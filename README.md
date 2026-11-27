@@ -1,11 +1,22 @@
+# LUXEHOME
 
-  # Premium Furniture E-commerce Website
+Учебный сайт мебельного бренда: главная страница с hero-блоком, каталогом, подборками товаров и отзывами.
 
-  This is a code bundle for Premium Furniture E-commerce Website. The original project is available at https://www.figma.com/design/mYoIxnheoCsdnTf5637ub9/Premium-Furniture-E-commerce-Website.
+**Демо:** https://hakkee94.github.io/luxehome/
 
-  ## Running the code
+## Стек
 
-  Run `npm i` to install the dependencies.
+React 18, Vite 6, Tailwind CSS 4.
 
-  Run `npm run dev` to start the development server.
-  
+## Запуск
+
+```bash
+npm install
+npm run dev
+```
+
+Проект публикуется на GitHub Pages через GitHub Actions: `.github/workflows/deploy-pages.yml`.
+
+## Макет
+
+[Figma — Premium Furniture E-commerce Website](https://www.figma.com/design/mYoIxnheCsdnTf5637ub9/Premium-Furniture-E-commerce-Website)
